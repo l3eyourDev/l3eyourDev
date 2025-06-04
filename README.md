@@ -38,11 +38,10 @@ Hello👋, I'm Theedanai <br><br>I'm a **Back-end Developer** who is passionate 
 
 
 # 📊 GitHub Stats:
-<a href="http://www.github.com/Snowy1510"><img src="https://github-readme-stats.vercel.app/api?username=Snowy1510&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Snowy1510's GitHub stats" /></a>
+<a href="http://www.github.com/l3eyourDev"><img src="https://github-readme-stats.vercel.app/api?username=Snowy1510&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Snowy1510's GitHub stats" /></a>
 
-<a href="http://www.github.com/Snowy1510"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Snowy1510&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Snowy1510" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowy1510&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/l3eyourDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowy1510&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 
