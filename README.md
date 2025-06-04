@@ -41,10 +41,10 @@ Hello👋, I'm Theedanai <br><br>I'm a **Back-end Developer** who is passionate 
 
 <div align="center" style="display: flex; justify-content: center; gap: 16px;">
   <a href="https://github.com/l3eyourDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=Snowy1510&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Snowy1510's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=l3eyourDev&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Snowy1510's GitHub stats" />
   </a>
   <a href="https://github.com/l3eyourDev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowy1510&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3eyourDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 </div>
 
