@@ -2,10 +2,10 @@
 Hello👋, I'm Theedanai <br><br>I'm a **Back-end Developer** who is passionate about solving real-world problems through code.  <br>My journey into backend development started with a curiosity about how systems really work behind the scenes — databases, APIs, authentication, performance, and architecture. That curiosity quickly turned into a deep focus on building reliable and scalable backend systems.<br><br>Currently, I'm expanding my skill set toward becoming a **Full-Stack Developer**, combining my backend expertise with frontend technologies to build end-to-end solutions that users love.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/beyour_.) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Tomorrow141265/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rt._iam) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parm141265@gmail.com) 
+[![beyour_.](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/beyour_.) 
+[![Theedanai Rattanakulchainun](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Tomorrow141265/) 
+[![rt._iam](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rt._iam) 
+[![parm141265@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parm141265@gmail.com) 
 
 # 💻 Tech Stack:
 
